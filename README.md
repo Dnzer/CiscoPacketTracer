@@ -17,9 +17,9 @@ A primeira rede:
 
 A segunda e terceira rede possuem as seguintes características:
 
->1) 1 switch core, 2 switchs agregação e  no mínimo 4 switchs de acesso.
+>1)1 switch core, 2 switchs agregação e  no mínimo 4 switchs de acesso.
 
->2) 4 VLans (10, 20, 30 e 40), sendo uma delas reservado para os servidores.
+>2)4 VLans (10, 20, 30 e 40), sendo uma delas reservado para os servidores.
 
 >3)8 computadores e 2 servidores distribuídos entre todas as VLANS.
 
